@@ -1,3 +1,4 @@
 # apnacollege-demo
-this is my first git repository
-author-tanu solanki
+this is my first git repository.
+<br>
+Author-tanu solanki
